@@ -1,6 +1,6 @@
-# Data Science Portifolio 
+# Regression Models
 My Data Science GitHub repository.
-This folder contains to Data Science Analysis index projects of git repositories.
+This folder contains to Data Science Analysis Regression projects of git repositories.
 # Projetcts
 - Linear Regression Models
 - Logistic Regression Models
